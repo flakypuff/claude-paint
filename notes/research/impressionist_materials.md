@@ -20,9 +20,11 @@ Analyses of paintings by Monet, Renoir, Pissarro, Sisley, Morisot, Degas,
 Cézanne and Seurat find much the same paints: lead white, cobalt blue and
 ultramarine, viridian and emerald green, chrome and later cadmium yellows,
 the lemon chromate yellows, vermilion and red lakes, with earths and black
-in the 1870s [AM]. *Uncertain* (not tied to one source). Monet and
-Pissarro later used little or none of either (Monet from about 1880)
-[AM; NEW]; *Uncertain* in part (not all of it tied to one source). Seurat gave
+in the 1870s [AM]. *Uncertain* (not tied to one source). Monet (from about
+1880) and Pissarro later used little or none of either [AM]; *Uncertain*
+(not tied to one source). The reports on four Pissarros of about 1864 to
+1894 in one collection name earths and black for the earliest and an iron
+oxide for one of 1873, and none for the two later ones [NEW]. Seurat gave
 up earths after about 1884, with a possible exception [TB24]. In ten of
 Cézanne's paintings of 1877 to 1906, charcoal black is in the paint of all
 but one and bone black in four of the grounds [BUT], and Degas's oils hold
@@ -52,7 +54,7 @@ thinned with turpentine [DG].
 | Monet, about 1897–99 | zinc white mixed into the colors, cobalt blue and violet, viridian and an opaque chromium oxide green, cadmium yellow, vermilion, on a ground of lead white and calcite | [MM22] |
 | Monet, 1899–1926 | in the two paintings analyzed: lead white, cobalt blue, French ultramarine, cobalt violet, viridian, cadmium yellows and orange, zinc and barium yellow together, vermilion, a madder lake; no chrome yellow, no emerald green, no earths; yellow ochre known from a remark resting on other studies, not found by analysis | [TB28] |
 | Renoir | lead white; cobalt blue, then French ultramarine by about 1885; chrome, strontium, barium and zinc yellows, Naples yellow after about 1885; vermilion, madder and cochineal lakes; emerald green, viridian; ivory and bone black; iron oxides; *Uncertain* (partly from secondary summaries, partly not tied to one source) | [KEE; AM] |
-| Pissarro | ultramarine, cobalt blue, vermilion, red lake, viridian, emerald green, chrome and cadmium yellow; ochres and a little black in the 1870s, earths largely given up later; zinc white with lead white; *Uncertain* in part (not all of it tied to one source) | [NEW; AM] |
+| Pissarro | in four paintings of about 1864 to 1894 in one collection: ultramarine, cobalt blue, vermilion, red lake, viridian, emerald green, chrome, cadmium and zinc yellow; zinc white with lead white; earths and bone black about 1864, an iron oxide in 1873 [NEW]. Ochres and a little black in the 1870s, earths largely given up later [AM]: this part *Uncertain* (not tied to one source) | [NEW; AM] |
 | Sisley | cobalt blue, red lake, viridian, an ochre, chrome yellow, lead white, traces of black; *Uncertain* (not tied to one source) | [AM] |
 | Morisot | cerulean, cobalt, ultramarine, emerald green, viridian, cadmium and chrome yellow, ochres, vermilion, a brownish lake, ivory black, lead white; *Uncertain* (not tied to one source) | [AM] |
 | Degas (oils) | vermilion, red lead, red and yellow ochre, viridian, emerald green, ultramarine, madder lake, black, lead and zinc white | [DG] |
@@ -127,9 +129,11 @@ Chromium oxide green, chrome green and cadmium green (manufacturers'
 mixtures), the brownish lake, and chalk and calcite have no tube in this
 box.
 
-Strontium, barium and zinc yellow take their color and tinting strength
-from measured dry powders, darkened for oil [OTE]; the numbers of carmine
-lake, yellow lake and vine black are estimates.
+Strontium, barium and zinc yellow take their color from the measured
+color of reconstructed pigments and their tinting strength from values
+measured in test paints, relative to lead chromate [OTE]; the darkening
+for oil is this easel's adjustment, not a sourced value. The numbers of
+carmine lake, yellow lake and vine black are estimates.
 
 ## 10. At this easel
 
@@ -149,8 +153,8 @@ lake, yellow lake and vine black are estimates.
 - **[TB24]** Kirby, J., Stonor, K., Roy, A., Burnstock, A., Grout, R. and White, R., "Seurat's Painting Practice: Theory, Development and Technology", *National Gallery Technical Bulletin* 24 (2003), pp. 4–37. The pages on pigments and media (pp.21–27, the passage on oils p.27) read. https://www.nationalgallery.org.uk/upload/pdf/kirby_stonor_roy_burnstock_grout_white2003.pdf
 - **[TB28]** Roy, A., "Monet's Palette in the Twentieth Century: Water-Lilies and Irises", *National Gallery Technical Bulletin* 28 (2007). The passage on the medium (pp.61–62) and the pages on the palette (pp.62–66) read. https://www.nationalgallery.org.uk/upload/pdf/roy2007.pdf
 - **[BUT]** Butler, M. H., "An Investigation of the Materials and Technique Used by Paul Cézanne", preprint, American Institute for Conservation 12th Annual Meeting (Los Angeles, 1984); ten Cézannes of 1877–1906. Full text read as republished online (McCrone, 2015). https://www.mccrone.com/mm/investigate-materials-techniques-cezanne/
-- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3. Abstract read.
-- **[NEW]** Chipkin, A. et al. (Sperber, R. and Remeš Jensen, D., eds.), *Paintings by the Pissarro Family: A Technical Catalogue* (Indianapolis: Indianapolis Museum of Art at Newfields, online, 2024), doi:10.58609/2.2. Its introductory essay and About page read; the per-painting technical reports not read in this check. https://pissarro.discovernewfields.org/
+- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3. Full text read (open access), with its table of color coordinates and tinting strengths.
+- **[NEW]** Chipkin, A. et al. (Sperber, R. and Remeš Jensen, D., eds.), *Paintings by the Pissarro Family: A Technical Catalogue* (Indianapolis: Indianapolis Museum of Art at Newfields, online, 2024), doi:10.58609/2.2. Its introductory essay, About page and the four technical reports on Camille Pissarro's paintings read. https://pissarro.discovernewfields.org/
 - **[KEE]** Keegan, K., "Rediscovering Renoir: Materials and Technique in the Paintings of Pierre-Auguste Renoir at the Art Institute of Chicago", paper at the American Institute for Conservation 43rd Annual Meeting (Miami, 2015); her technical reports are also in the Art Institute of Chicago's Renoir online catalog (2014). Read through secondary summaries.
 - **[POZ]** Pozzi, F., van den Berg, K. J., Fiedler, I. and Casadio, F., "A systematic analysis of red lake pigments in French Impressionist and Post-Impressionist paintings by surface-enhanced Raman spectroscopy (SERS)", *Journal of Raman Spectroscopy* 45 (2014), pp. 1119–1126, doi:10.1002/jrs.4483. Its analyses cover works in one museum collection (the Art Institute of Chicago). Abstract read.
 - **[MM22]** Germinario, G., Talarico, F. and Torre, M., "Microanalyses and Spectroscopic Techniques for the

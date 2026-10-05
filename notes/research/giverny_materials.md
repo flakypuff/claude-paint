@@ -100,11 +100,13 @@ ochre. Chromium oxide green and calcite (in the ground) have no tube in
 this box.
 
 Zinc white stays in the giverny box for the whole span, about 1897 to
-1926: a judgement from the one painting of about 1897–99 [MM22], not a
+1926: a judgment from the one painting of about 1897–99 [MM22], not a
 sourced finding.
 
-Barium yellow and zinc yellow take their color and tinting strength from
-measured dry powders, darkened for oil [OTE]; carmine lake's numbers are
+Barium yellow and zinc yellow take their color from the measured color
+of reconstructed pigments and their tinting strength from values measured
+in test paints, relative to lead chromate [OTE]; the darkening for oil is
+this easel's adjustment, not a sourced value. Carmine lake's numbers are
 estimates.
 
 ## 10. At this easel
@@ -127,4 +129,4 @@ estimates.
   *Microscopy and Microanalysis* 28(1) (2022; online 15 November 2021), pp. 27–41,
   doi:10.1017/S1431927621013556. Open access; read. The paper dates the painting about 1897–99.
 - **[POZ]** Pozzi, F., van den Berg, K. J., Fiedler, I. and Casadio, F., "A systematic analysis of red lake pigments in French Impressionist and Post-Impressionist paintings by surface-enhanced Raman spectroscopy (SERS)", *Journal of Raman Spectroscopy* 45 (2014), pp. 1119–1126, doi:10.1002/jrs.4483. Its analyses cover works in one museum collection (the Art Institute of Chicago). Abstract read.
-- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3. Abstract read.
+- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3. Full text read (open access), with its table of color coordinates and tinting strengths.
