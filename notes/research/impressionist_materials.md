@@ -8,11 +8,11 @@ media that analyses of the paintings found), and nothing of what the
 paintings look like.*
 <!-- research: The research pass that gathered this recorded its sources for the note as a whole: a key is
 given where it tied a finding to one source. [AM] with a page number means the book itself; bare [AM] (no
-page) marks a finding the pass did not tie to one source, which may come from any source in the list.
-[KEE] was read only through secondary summaries (the Art Institute of Chicago's Renoir catalogue pages were
-not reachable); [BUT] was read in full. The two National Gallery books ([AM], [DG]) were read through
-ColourLex. Page numbers are given where they were recovered. Each finding should be checked against its
-source before it is relied on. -->
+page) marks a finding the pass did not tie to one source, which may come from any source in the list; every
+claim resting on bare [AM] is marked *Uncertain* (not tied to one source). [KEE] was read only through
+secondary summaries (the Art Institute of Chicago's Renoir catalog pages were not reachable); [BUT] was read
+in full. The two National Gallery books ([AM], [DG]) were read through ColourLex. Page numbers are given where
+they were recovered. Each finding should be checked against its source before it is relied on. -->
 
 ## Summary
 
@@ -20,11 +20,13 @@ Analyses of paintings by Monet, Renoir, Pissarro, Sisley, Morisot, Degas,
 Cézanne and Seurat find much the same paints: lead white, cobalt blue and
 ultramarine, viridian and emerald green, chrome and later cadmium yellows,
 the lemon chromate yellows, vermilion and red lakes, with earths and black
-in the 1870s [AM]. Monet and Pissarro later used little or none of either
-(Monet from about 1880) [AM; NEW]; Seurat gave up earths after about 1884,
-with a possible exception [TB24]. In ten of Cézanne's paintings of 1877 to
-1906, charcoal black is in the paint of all but one and bone black in four
-of the grounds [BUT], and Degas's oils hold black [DG].
+in the 1870s [AM]. *Uncertain* (not tied to one source). Monet and
+Pissarro later used little or none of either (Monet from about 1880)
+[AM; NEW]; *Uncertain* in part (not all of it tied to one source). Seurat gave
+up earths after about 1884, with a possible exception [TB24]. In ten of
+Cézanne's paintings of 1877 to 1906, charcoal black is in the paint of all
+but one and bone black in four of the grounds [BUT], and Degas's oils hold
+black [DG].
 
 **Terms.** *Ground*: the preparatory layer between canvas and paint; this
 is *Uncertain* (not tied to one source) [AM]. *Lake*: a dye fixed on a
@@ -35,22 +37,24 @@ thinned with turpentine [DG].
 
 ## 2. Grounds
 
-- **Oil grounds** were white, off-white, cream, pale grey (white with a
-  little black) or beige [AM]. *Uncertain* for any one canvas.
+- **Oil grounds** were white, off-white, cream, pale gray (white with a
+  little black) or beige [AM]. *Uncertain* (not tied to one source), and
+  for any one canvas.
 - **Absorbent chalk and glue grounds** draw the oil out of the paint:
-  matte, faster setting, with a risk of sinking [AM].
+  matte, faster setting, with a risk of sinking [AM]. *Uncertain* (not
+  tied to one source).
 
 ## 4. Pigments
 
 | painter | pigments found | source |
 |---|---|---|
-| Monet, 1869–77 | lead white, cobalt blue, Prussian blue, artificial ultramarine, cerulean, emerald green, viridian, chrome yellow, barium (lemon) yellow, vermilion, red lake, cobalt violet, red and yellow ochre, ivory black, a manufacturer's chrome green; about 1880 no black and no earths (but see yellow ochre, 1899–1926, below) | [AM] |
+| Monet, 1869–77 | lead white, cobalt blue, Prussian blue, artificial ultramarine, cerulean, emerald green, viridian, chrome yellow, barium (lemon) yellow, vermilion, red lake, cobalt violet, red and yellow ochre, ivory black, a manufacturer's chrome green; about 1880 no black and no earths; *Uncertain* (not tied to one source) | [AM] |
 | Monet, about 1897–99 | zinc white mixed into the colors, cobalt blue and violet, viridian and an opaque chromium oxide green, cadmium yellow, vermilion, on a ground of lead white and calcite | [MM22] |
-| Monet, 1899–1926 | in the two paintings analysed: lead white, cobalt blue, French ultramarine, cobalt violet, viridian, cadmium yellows and orange, zinc and barium yellow together, vermilion, a madder lake; no chrome yellow, no emerald green, no earths; yellow ochre known from a remark resting on other studies, not found by analysis | [TB28] |
-| Renoir | lead white; cobalt blue, then French ultramarine by about 1885; chrome, strontium, barium and zinc yellows, Naples yellow after about 1885; vermilion, madder and cochineal lakes; emerald green, viridian; ivory and bone black; iron oxides; *Uncertain* (partly from secondary summaries) | [KEE; AM] |
-| Pissarro | ultramarine, cobalt blue, vermilion, red lake, viridian, emerald green, chrome and cadmium yellow; ochres and a little black in the 1870s, earths largely given up later; zinc white with lead white | [NEW; AM] |
-| Sisley | cobalt blue, red lake, viridian, an ochre, chrome yellow, lead white, traces of black | [AM] |
-| Morisot | cerulean, cobalt, ultramarine, emerald green, viridian, cadmium and chrome yellow, ochres, vermilion, a brownish lake, ivory black, lead white | [AM] |
+| Monet, 1899–1926 | in the two paintings analyzed: lead white, cobalt blue, French ultramarine, cobalt violet, viridian, cadmium yellows and orange, zinc and barium yellow together, vermilion, a madder lake; no chrome yellow, no emerald green, no earths; yellow ochre known from a remark resting on other studies, not found by analysis | [TB28] |
+| Renoir | lead white; cobalt blue, then French ultramarine by about 1885; chrome, strontium, barium and zinc yellows, Naples yellow after about 1885; vermilion, madder and cochineal lakes; emerald green, viridian; ivory and bone black; iron oxides; *Uncertain* (partly from secondary summaries, partly not tied to one source) | [KEE; AM] |
+| Pissarro | ultramarine, cobalt blue, vermilion, red lake, viridian, emerald green, chrome and cadmium yellow; ochres and a little black in the 1870s, earths largely given up later; zinc white with lead white; *Uncertain* in part (not all of it tied to one source) | [NEW; AM] |
+| Sisley | cobalt blue, red lake, viridian, an ochre, chrome yellow, lead white, traces of black; *Uncertain* (not tied to one source) | [AM] |
+| Morisot | cerulean, cobalt, ultramarine, emerald green, viridian, cadmium and chrome yellow, ochres, vermilion, a brownish lake, ivory black, lead white; *Uncertain* (not tied to one source) | [AM] |
 | Degas (oils) | vermilion, red lead, red and yellow ochre, viridian, emerald green, ultramarine, madder lake, black, lead and zinc white | [DG] |
 | Cézanne | above all lead white, vermilion, emerald green, ultramarine; red lake, iron oxide yellow, viridian and charcoal black in most of the ten works; bone black in four grounds; chrome yellow, gone in his last decade; cobalt blue in the last five of the ten (from about 1883); Indian yellow; possibly a yellow lake; chalk as 20–47% of some paints | [BUT] |
 | Seurat | vermilion, red lake, burnt sienna, iron oxide yellow, chrome and cadmium yellow, viridian, emerald green, ultramarine, cobalt blue, lead white, black (1884); after about 1884 earths given up, with the possible exception of yellow ochre (earths are also reported in the first, 1884–5, stage of one painting); zinc yellow added from 1885; strontium yellow, madder and cochineal lakes, an organic yellow | [TB24] |
@@ -58,7 +62,8 @@ thinned with turpentine [DG].
 Cochineal as well as madder lakes, sometimes combined, are found in
 paintings of the period in one museum collection [POZ]. Ivory black and
 bone black can't be told apart by analysis [AM]. Chrome green and cadmium
-green were manufacturers' mixtures [AM].
+green were manufacturers' mixtures [AM]. Both *Uncertain* (not tied to one
+source).
 <!-- research: Pigments that existed but were not added to the catalog: synthetic alizarin, geranium lake and
 aureolin, which these sources do not report; manganese violet, which [TB24] reports in one late Seurat; and
 chromium oxide green, which [MM22] reports in one Monet. -->
@@ -79,9 +84,11 @@ chromium oxide green, which [MM22] reports in one Monet. -->
   and several paints of the other are in poppy oil too (the source does
   not say whether a white was among them) [TB28 pp.61–62]. Two paintings
   and one white: *Uncertain* as a rule for his late work. Drying and
-  yellowing run linseed, then walnut, then poppy [AM].
+  yellowing run linseed, then walnut, then poppy [AM]. *Uncertain* (not
+  tied to one source).
 - **Driers.** Oil cooked with litharge, siccatif de Courtrai or de
   Harlem: much faster drying, darker and more brittle with too much [AM].
+  *Uncertain* (not tied to one source).
 - **Turpentine.** Lean, fast, matte films; in *peinture à l'essence* the
   oil is blotted out first [DG].
 - **Varnish.** They preferred their pictures unvarnished: matte, and
@@ -98,8 +105,8 @@ sulfide; zinc white forms brittle soaps with the oil [AM]. *Uncertain*
 ## 9. The tubes here
 
 The historical names in this note are mapped to these tubes: lead white →
-lead white; zinc white → zinc white; cobalt blue → cobalt blue;
-ultramarine (artificial or French) → ultramarine blue; cerulean → cerulean
+lead white; zinc white → zinc white; cobalt blue or plain cobalt → cobalt
+blue; ultramarine (artificial or French) → ultramarine blue; cerulean → cerulean
 blue; Prussian blue → Prussian blue; emerald green → emerald green;
 viridian → viridian; chrome yellow → chrome yellow and orange chrome (its
 deep grade, *inferred*); barium yellow → barium yellow; strontium yellow →
@@ -108,7 +115,8 @@ pale cadmium, cadmium yellow and deep cadmium (which grade is which is
 *inferred*); Naples yellow → Naples yellow; Indian yellow → Indian yellow;
 a yellow lake or organic yellow → yellow lake; yellow ochre and iron oxide
 yellow → yellow ochre and raw sienna (a proxy); red ochre and iron oxides →
-red earth; burnt sienna → burnt sienna; vermilion → vermilion; red lead →
+red earth; an ochre or ochres of unstated kind → yellow ochre and red
+earth (*inferred*); burnt sienna → burnt sienna; vermilion → vermilion; red lead →
 red lead; madder lake → rose madder; cochineal lake → carmine lake; a red
 lake of unidentified kind → rose madder and carmine lake (which one is not
 known); cobalt violet → cobalt violet; ivory and bone black → bone black;
@@ -141,9 +149,9 @@ lake, yellow lake and vine black are estimates.
 - **[TB24]** Kirby, J., Stonor, K., Roy, A., Burnstock, A., Grout, R. and White, R., "Seurat's Painting Practice: Theory, Development and Technology", *National Gallery Technical Bulletin* 24 (2003), pp. 4–37. The pages on pigments and media (pp.21–27, the passage on oils p.27) read. https://www.nationalgallery.org.uk/upload/pdf/kirby_stonor_roy_burnstock_grout_white2003.pdf
 - **[TB28]** Roy, A., "Monet's Palette in the Twentieth Century: Water-Lilies and Irises", *National Gallery Technical Bulletin* 28 (2007). The passage on the medium (pp.61–62) and the pages on the palette (pp.62–66) read. https://www.nationalgallery.org.uk/upload/pdf/roy2007.pdf
 - **[BUT]** Butler, M. H., "An Investigation of the Materials and Technique Used by Paul Cézanne", preprint, American Institute for Conservation 12th Annual Meeting (Los Angeles, 1984); ten Cézannes of 1877–1906. Full text read as republished online (McCrone, 2015). https://www.mccrone.com/mm/investigate-materials-techniques-cezanne/
-- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3.
-- **[NEW]** Newfields (Indianapolis Museum of Art), *Paintings by the Pissarro Family: A Technical Catalogue* (online, 2024).
-- **[KEE]** Keegan, K., on Renoir, paper at the American Institute for Conservation 43rd Annual Meeting (2015); her technical reports are also in the Art Institute of Chicago's Renoir online catalogue (2014). Read through secondary summaries.
+- **[OTE]** Otero, V., Campos, M. F., Pinto, J. V., Vilarigues, M., Carlyle, L. and Melo, M. J., "Barium, zinc and strontium yellows in late 19th–early 20th century oil paintings", *Heritage Science* 5:46 (2017), doi:10.1186/s40494-017-0160-3. Abstract read.
+- **[NEW]** Chipkin, A. et al. (Sperber, R. and Remeš Jensen, D., eds.), *Paintings by the Pissarro Family: A Technical Catalogue* (Indianapolis: Indianapolis Museum of Art at Newfields, online, 2024), doi:10.58609/2.2. Its introductory essay and About page read; the per-painting technical reports not read in this check. https://pissarro.discovernewfields.org/
+- **[KEE]** Keegan, K., "Rediscovering Renoir: Materials and Technique in the Paintings of Pierre-Auguste Renoir at the Art Institute of Chicago", paper at the American Institute for Conservation 43rd Annual Meeting (Miami, 2015); her technical reports are also in the Art Institute of Chicago's Renoir online catalog (2014). Read through secondary summaries.
 - **[POZ]** Pozzi, F., van den Berg, K. J., Fiedler, I. and Casadio, F., "A systematic analysis of red lake pigments in French Impressionist and Post-Impressionist paintings by surface-enhanced Raman spectroscopy (SERS)", *Journal of Raman Spectroscopy* 45 (2014), pp. 1119–1126, doi:10.1002/jrs.4483. Its analyses cover works in one museum collection (the Art Institute of Chicago). Abstract read.
 - **[MM22]** Germinario, G., Talarico, F. and Torre, M., "Microanalyses and Spectroscopic Techniques for the
   Identification of Pigments and Pictorial Materials in Monet's *Pink Water Lilies* Painting",
