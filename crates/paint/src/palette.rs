@@ -72,7 +72,8 @@ impl Tube {
 /// (notes/research/{giverny,impressionist}_materials.md) map them to the
 /// pigments found, and the comment at each gives its basis. All numbers are
 /// estimates from the pigment literature, not measurements (the three
-/// chromate yellows' color and strength are from measured dry powders).
+/// chromate yellows' color and strength are from measurements of
+/// reconstructed pigments and test paints).
 pub fn catalog() -> Vec<Tube> {
     vec![
         // ---- the tube box (round 19)
@@ -193,10 +194,12 @@ pub fn catalog() -> Vec<Tube> {
         #[cfg(any(feature = "box-sargent", feature = "box-tonn", feature = "box-giverny", feature = "box-impressionist"))]
         tube("cobalt violet", "cobalt phosphate or arsenate", "#7e4c8e", 0.35, 0.55, 0.35, drier::COBALT_BLUE),
         // ---- the giverny and impressionist boxes (notes/research/{giverny,impressionist}_materials.md)
-        // lead-free chromate yellows of the 1850s-80s: dry powders measured
-        // (Otero et al. 2017, Heritage Science 5:46: L*a*b* 94/-11/55, 90/-8/52,
-        // 87/5/89; tinting 78%, 92%, 65% of lead chromate), masstones
-        // darkened for oil; hiding from their refractive indices
+        // lead-free chromate yellows of the 1850s-80s, as reconstructed from
+        // historical recipes and measured (Otero et al. 2017, Heritage
+        // Science 5:46): the pigments' color L*a*b* 94/-11/55, 90/-8/52,
+        // 87/5/89, and tinting strength in test paints (PVA, with barium
+        // sulfate) 78%, 92%, 65% of lead chromate's; masstones darkened for
+        // oil (this easel's adjustment); hiding from their refractive indices
         #[cfg(feature = "box-impressionist")]
         tube("strontium yellow", "strontium chromate", "#f2df53", 0.55, 0.65, 0.8, drier::CHROMATE),
         #[cfg(any(feature = "box-giverny", feature = "box-impressionist"))]
